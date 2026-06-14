@@ -1,6 +1,6 @@
 {
 	"name": "biome",
-	"version": "3.6.1",
+	"version": "3.7.0",
 	"displayName": "Biome",
 	"publisher": "biomejs",
 	"license": "MIT OR Apache-2.0",
@@ -195,25 +195,25 @@
 		"tree-sitter-gritql": "0.1.1",
 		"vscode-languageclient": "9.0.1",
 		"vscode-uri": "3.1.0",
-		"web-tree-sitter": "0.26.8"
+		"web-tree-sitter": "0.26.9"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "2.4.15",
+		"@biomejs/biome": "2.4.16",
 		"@changesets/changelog-github": "0.7.0",
 		"@changesets/cli": "2.31.0",
-		"@rollup/plugin-commonjs": "29.0.2",
+		"@rollup/plugin-commonjs": "29.0.3",
 		"@rollup/plugin-json": "6.1.0",
 		"@rollup/plugin-node-resolve": "16.0.3",
 		"@types/node": "24.12.4",
 		"@types/vscode": "^1.80.0",
 		"@vscode/vsce": "3.9.1",
 		"esbuild": "0.28.0",
-		"lefthook": "2.1.6",
-		"ovsx": "0.10.12",
+		"lefthook": "2.1.8",
+		"ovsx": "1.0.0",
 		"rollup": "4.60.4",
 		"rollup-plugin-copy": "3.5.0",
 		"rollup-plugin-esbuild": "6.2.1",
 		"typescript": "6.0.3"
 	},
-	"packageManager": "pnpm@11.1.2"
+	"packageManager": "pnpm@11.4.0"
 }
